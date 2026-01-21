@@ -1,4 +1,5 @@
 Project 1: Campus Recruitment Fairness Audit 🏹🛡️
+
 Business Task: Identify if recruitment outcomes are influenced by gender or degree specialization rather than academic performance alone.
 
 Definitions Applied:
