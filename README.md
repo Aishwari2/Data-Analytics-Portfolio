@@ -13,3 +13,15 @@ Oversampling (Concept): I identified that if one gender is significantly underre
 Tools Used: > * Google Sheets (for data cleaning and pivot tables).
 
 GitHub (for documentation and version control).
+
+
+
+---
+### **Project Results & Key Insights** 📊
+After performing a **Fairness Audit** using Pivot Tables, I uncovered a clear hiring gap:
+
+* **The Gender Gap:** Males had a placement rate of **71.9%** (100 out of 139), while females were placed at a rate of **63.1%** (48 out of 76).
+* **The Evidence:** My audit shows nearly a **9% difference** in favor of male candidates.
+* **Analysis:** This discovery moves the project from simple data viewing to "Root Cause" investigation. 
+
+![Gender Gap Analysis](gender_gap_analysis.png)
